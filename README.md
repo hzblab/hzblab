@@ -7,6 +7,5 @@
 
 ## 📌 Projects
 - [**DSA Repo**](https://github.com/hzblabs/DSA-Repo): Solved Data Structures & Algorithms problems by topic with clean, well-documented Java solutions.
-- [**REF Score Prediction Model**](https://github.com/hzblabs/REF-Score-prediction-model): Fine-tuned LLMs (BigBird) to classify academic research outputs into REF star ratings.  
-- Check my repository for more
+- [**REF Score Prediction Model**](https://github.com/hzblabs/REF-Score-prediction-model): Fine-tuned LLMs (BigBird) to classify academic research outputs into REF star ratings. 
 
