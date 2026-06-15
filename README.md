@@ -8,8 +8,9 @@ I build and share projects in machine learning, data science, web development, a
 ---
 
 ## 📌 Featured Projects
-- [**DSA Repo**](https://github.com/hzblabs/DSA-Repo): Organized Data Structures & Algorithms solutions with clear, well-documented Java code.
 - [**REF Score Prediction Model**](https://github.com/hzblabs/REF-Score-prediction-model): Fine-tuned LLMs using BigBird to classify academic research outputs into REF rating categories.
+- [**DSA Repo**](https://github.com/hzblabs/DSA-Repo): Organized Data Structures & Algorithms solutions with clear, well-documented Java code.
+
 
 ## 🚀 What I do
 - Build machine learning models and data science pipelines
