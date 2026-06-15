@@ -17,6 +17,6 @@ Welcome to my GitHub profile! I build and share projects in machine learning, da
 - Solve algorithm challenges and publish reusable code patterns
 
 ## 📫 Connect
-- GitHub: [github.com/hzblabs](https://github.com/hzblabs)
+- GitHub: [github.com/hzblabs](https://github.com/hzblab)
 - Open to collaboration, learning, and new project ideas.
 
