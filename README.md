@@ -13,8 +13,8 @@ I build and share projects in machine learning, data science, web development, a
 
 
 ## 🚀 What I do
-- Build machine learning models and data science pipelines
 - Develop full-stack web applications with modern JavaScript frameworks
+- Build machine learning models and data science pipelines
 - Solve algorithm challenges and publish reusable code patterns
 
 ## 📫 Connect
